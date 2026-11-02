@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/qgming-dev.png" width="96" height="96" alt="avatar" style="border-radius:50%" />
-
 # 你好，我是 Ming Dev 👋
-### Hi, I'm Ming Dev
+**Hi, I'm Ming Dev**
 
 **独立开发者 · 写点小工具，也记点笔记**
 *Indie developer — small tools, honest notes.*

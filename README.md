@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/qgming-dev.png" width="96" height="96" alt="avatar" />
+
 # 你好，我是 Ming Dev 👋
 **Hi, I'm Ming Dev**
 
@@ -15,17 +17,17 @@
 
 ---
 
-## 🇨🇳 关于我
+## 关于我
 
-这是我的第二个 GitHub 账号，用来做日常开发、代码评审和开源维护。主账号在 [@qgming](https://github.com/qgming)，更完整的项目都在那边。
+这个账号专注日常开发、代码评审和开源维护——跟进别人的项目、帮忙看 PR、把零散的工具和笔记留在这里。更完整的项目在 [@qgming](https://github.com/qgming)。
 
 - 🔧 **小工具**：把重复的事写成脚本，能省一步就省一步
 - 📝 **笔记**：把踩过的坑记下来，整理成能复用的文档
 - 🔍 **代码评审**：喜欢读别人的实现，也愿意帮忙看 PR
 
-## 🇬🇧 About
+## About
 
-This is my second GitHub account, used for day-to-day development, code review and open-source maintenance. My main account is [@qgming](https://github.com/qgming) — that's where the bigger projects live.
+This account focuses on day-to-day development, code review and open-source maintenance — following projects, helping with pull requests, and keeping notes on the small tools I build. Most of the larger projects live at [@qgming](https://github.com/qgming).
 
 - 🔧 **Small tools** — if a task repeats, it gets a script
 - 📝 **Notes** — turning pitfalls into reusable docs
@@ -54,6 +56,6 @@ This is my second GitHub account, used for day-to-day development, code review a
 
 **主账号 / Main account** → [@qgming](https://github.com/qgming) &nbsp;·&nbsp; **个人主页 / Site** → [qgming-dev.github.io](https://qgming-dev.github.io/)
 
-<sub>保持好奇，写点有用的东西 · Stay curious, build useful things.</sub>
+<sub>用这个账号跟进开源项目、帮看 PR、记录零散的工具与笔记 · An account for open-source work: following projects, reviewing PRs, and keeping notes on small tools.</sub>
 
 </div>

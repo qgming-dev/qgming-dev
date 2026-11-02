@@ -11,7 +11,7 @@
 [![visitors](https://komarev.com/ghpvc/?username=qgming-dev&label=visitors&color=8b95a5&style=flat-square)](https://github.com/qgming-dev)
 [![followers](https://img.shields.io/github/followers/qgming-dev?label=followers&style=flat-square&color=8b95a5)](https://github.com/qgming-dev?tab=followers)
 [![stars](https://img.shields.io/github/stars/qgming-dev?label=stars&style=flat-square&color=8b95a5)](https://github.com/qgming-dev)
-[![profile site](https://img.shields.io/badge/profile-qgming--dev.github.io-6ee7ff?style=flat-square&logo=githubpages&logoColor=white)](https://qgming-dev.github.io/)
+[![website](https://img.shields.io/badge/website-www.qgming.com-6ee7ff?style=flat-square&logo=googlechrome&logoColor=white)](https://www.qgming.com)
 
 </div>
 
@@ -54,8 +54,8 @@ This account focuses on day-to-day development, code review and open-source main
 
 <div align="center">
 
-**主账号 / Main account** → [@qgming](https://github.com/qgming) &nbsp;·&nbsp; **个人主页 / Site** → [qgming-dev.github.io](https://qgming-dev.github.io/)
+**主账号 / Main account** → [@qgming](https://github.com/qgming) &nbsp;·&nbsp; **个人网站 / Website** → [www.qgming.com](https://www.qgming.com)
 
-<sub>用这个账号跟进开源项目、帮看 PR、记录零散的工具与笔记 · An account for open-source work: following projects, reviewing PRs, and keeping notes on small tools.</sub>
+<sub>保持好奇，写点有用的东西 · Stay curious, build useful things.</sub>
 
 </div>
